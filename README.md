@@ -27,8 +27,7 @@
 | 📦 **Microsserviço 1** | Azure Web App (Node/OS) | [https://nexora-remote-fernando.azurewebsites.net](https://nexora-remote-fernando.azurewebsites.net) | CRUD autônomo de Ordens de Serviço (`os-service`) |
 | 📦 **Microsserviço 2** | Azure Web App (Node/Técnicos) | [https://nexora-remote-dashboard-fernando.azurewebsites.net](https://nexora-remote-dashboard-fernando.azurewebsites.net) | CRUD autônomo de Técnicos de Campo (`tecnicos-service`) |
 
-*Repositório Público no GitHub (para entrega no AVA):*  
-👉 **[https://github.com/Fernando-Lopes1/NEXORA-GATEWAY-LARAVEL](https://github.com/Fernando-Lopes1/NEXORA-GATEWAY-LARAVEL)**
+
 
 ---
 
